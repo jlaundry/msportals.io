@@ -12,6 +12,7 @@ We are currently making our web-pages from JSON files, our current JSON Portal s
 | [3rd Party Links](https://msportals.io/3rdparty)         | [3rd Party JSON](./_data/portals/thirdparty.json)      |
 | [US Government Links](https://msportals.io/usgovt)       | [US Government JSON](./_data/portals/us-govt.json)     |
 | [End User Links/Apps](https://msportals.io/userportals)  | [End User JSON](./_data/portals/user.json)             |
+| [Partner Links](https://msportals.io/partner)            | [Partner JSON](./_data/portals/partner.json)           |
 
 ## Fields ##
 
